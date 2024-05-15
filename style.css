@@ -1,0 +1,99 @@
+.bg-container{
+    display:flex;
+    flex-direction:row;
+    padding:100px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.1);
+    width:100vw;
+    margin:100px;
+    height:100vh;
+    box-sizing: border-box;
+
+
+}
+
+h1{
+    color:white;
+    font-weight:bold;
+    font-size: 50px;
+    margin:0px;
+    font-size: 70px;
+}
+
+
+.heading{
+    color:black;
+    font-weight: bold;
+  
+}
+p{
+    color:grey;
+}
+
+
+.para{
+    color:grey;
+    margin-bottom: 30px;
+    margin-top: 20px;
+
+}
+span{
+    color:rgb(174, 0, 255);
+}
+
+.lab{
+    color:grey;
+    margin-bottom:10px;
+    display:block;
+    
+
+}
+.input1{
+    width:100%;
+}
+
+
+.images{
+    background-image: url("https://media.istockphoto.com/id/1597475039/photo/abstract-colorful-glass-background.jpg?s=2048x2048&w=is&k=20&c=vJukprFS_dv237PFCexedM5PkoGZ_-nwtfS1ndBnx0M=");
+    background-size: cover;
+    height:54.1vh;
+    width:40vw;
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:white;
+}
+
+.login{
+    padding:5%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height:54.1vh;
+    box-sizing: border-box;
+    width:30vw;
+    background-color: white;
+    background-size: cover;
+
+}
+.mass{
+    color:black;
+}
+
+.box{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.toblock{
+    display:block;
+    margin-bottom:10px;
+}
+
+button{
+    background-color: blueviolet;
+    color:white;
+    width:100%;
+    height:30px;
+
+}
